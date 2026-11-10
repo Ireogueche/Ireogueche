@@ -1,16 +1,18 @@
-👋 Hi there, I'm Divinegift!
+# 👋 Hi there, I'm Divinegift!
 
-🔐 Aspiring Cybersecurity Professional | Law × Technology | Data Privacy Enthusiast
+### 🔐 Aspiring Cybersecurity Professional | Law × Technology | Data Privacy
 
 Welcome to my GitHub profile!
 
-I'm a Law student with a growing passion for Cybersecurity, Data Privacy, and the intersection of Law and Technology.
+I'm a Law student at Enugu State University of Science and Technology (ESUT), with a growing interest in Cybersecurity, Information Security, and Data Privacy.
 
-I'm interested in understanding how digital systems work, identifying security vulnerabilities, protecting sensitive information, and exploring the legal and ethical responsibilities surrounding technological advancement.
+My interest in technology goes beyond understanding how digital systems work. I'm particularly interested in how we can identify vulnerabilities, protect sensitive information, promote responsible digital practices, and create safer technological environments.
 
-With a foundation in Computer Science, legal studies, and data protection, I'm on a continuous journey of learning, building, experimenting, and developing practical cybersecurity skills.
+With a foundation in Computer Science through CS50, alongside my legal education and training in Data Protection and Security, I'm exploring the intersection of technology, cybersecurity, and regulatory compliance.
 
-🎯 What I'm Currently Learning
+I'm passionate about continuous learning, practical problem-solving, and developing technical skills that address real-world challenges.
+
+### 🎯 What I'm Currently Learning
 
 - 🐧 Linux Fundamentals
 - 🌐 Computer Networking
@@ -18,9 +20,9 @@ With a foundation in Computer Science, legal studies, and data protection, I'm o
 - 🐍 Python Programming
 - 🛡️ Ethical Hacking
 - 🔎 Vulnerability Assessment
-- 🔏 Data Privacy & Information Security
+- 🔏 Information Security and Data Protection
 
-🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 
 - Linux & Kali Linux
 - Git & GitHub
@@ -30,35 +32,38 @@ With a foundation in Computer Science, legal studies, and data protection, I'm o
 - Burp Suite
 - HTML & CSS
 
-*Currently expanding my knowledge and practical experience.*
+*I'm continuously developing my knowledge and practical experience with these technologies.*
 
-⚖️ Areas of Interest
+### ⚖️ Areas of Interest
 
-- Cybersecurity & Ethical Hacking
-- Data Protection and Privacy Rights
+- Cybersecurity and Ethical Hacking
+- Data Privacy and Information Security
 - Cyber Law and Regulatory Compliance
 - Nigerian Data Protection Act (NDPA 2023)
 - General Data Protection Regulation (GDPR)
-- Digital Rights and Technology Governance
+- Digital Rights and Responsible Technology
 
-🚀 What I'm Working Towards
+### 🚀 My Learning Goals
 
-- Building practical cybersecurity projects.
-- Developing my technical skills.
-- Exploring the relationship between law and technology.
-- Understanding security risks and digital vulnerabilities.
-- Promoting responsible technology and data protection.
+- Develop practical cybersecurity and technical skills.
+- Build hands-on projects that solve real-world problems.
+- Strengthen my understanding of networking, Linux, and programming.
+- Explore cybersecurity threats, vulnerabilities, and defence mechanisms.
+- Understand the relationship between cybersecurity, law, and data protection.
+- Collaborate, learn, and contribute to the growing technology ecosystem.
 
-📂 My Projects
+### 📂 My Projects
 
-I'm currently building my cybersecurity portfolio. Stay tuned as I document my learning journey, practical exercises, and projects.
+I'm building my technical portfolio and documenting my learning journey through practical exercises, personal projects, and cybersecurity research.
 
-💡 My Philosophy
+More projects and learning experiences coming soon!
 
-> Technology should advance society, but security, privacy, and accountability must advance with it.
+### 💡 My Philosophy
 
-🤝 Let's Connect
+> Technology creates opportunities, but security, privacy, and responsibility make those opportunities sustainable.
 
-I'm always open to learning, collaboration, and connecting with people passionate about cybersecurity, technology, and digital rights.
+### 🤝 Let's Connect
 
-⭐ Thanks for visiting my profile!
+I'm open to learning opportunities, mentorship, collaboration, and connecting with individuals passionate about cybersecurity, technology, and digital innovation.
+
+⭐ Thank you for visiting my profile!
